@@ -16,18 +16,15 @@ After the first 2 days almost everything is ready, except for the audio
 
 ###Links used in the process ###
 
-https://www.thepythoncode.com/article/make-screen-recorder-python
-https://www.thepythoncode.com/article/play-and-record-audio-sound-in-python
-https://www.thepythoncode.com/article/download-web-page-images-python
-https://www.youtube.com/watch?v=1RE5tSPO2RI&ab_channel=TheCodex (GUI Automation with
-PyAutoGUI)
-https://stackoverflow.com/questions/48975874/how-record-the-screen-while-selenium-python-is-running-windows-10/48988268
-https://www.youtube.com/watch?v=Xjv1sY630Uc&ab_channel=TechWithTim (Web Scraping, Bots &
-Testing)
-https://python-sounddevice.readthedocs.io/en/0.4.1/usage.html#recording
-https://www.youtube.com/watch?v=1eHQIu4r0Bc&ab_channel=CodingEntrepreneurs (Record Video in
-OpenCV & Python)
-https://stackoverflow.com/questions/66138578/convert-waves-to-decibels-in-python ( Convert waves to decibels )
+- https://www.thepythoncode.com/article/make-screen-recorder-python
+- https://www.thepythoncode.com/article/play-and-record-audio-sound-in-python
+- https://www.thepythoncode.com/article/download-web-page-images-python
+- https://www.youtube.com/watch?v=1RE5tSPO2RI&ab_channel=TheCodex (GUI Automation with PyAutoGUI)
+- https://stackoverflow.com/questions/48975874/how-record-the-screen-while-selenium-python-is-running-windows-10/48988268
+- https://www.youtube.com/watch?v=Xjv1sY630Uc&ab_channel=TechWithTim (Web Scraping, Bots & Testing)
+- https://python-sounddevice.readthedocs.io/en/0.4.1/usage.html#recording
+- https://www.youtube.com/watch?v=1eHQIu4r0Bc&ab_channel=CodingEntrepreneurs (Record Video in OpenCV & Python)
+- https://stackoverflow.com/questions/66138578/convert-waves-to-decibels-in-python ( Convert waves to decibels )
 
 
 ### RUN ###
